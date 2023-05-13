@@ -1,0 +1,16 @@
+{
+  "name": "node-pr",
+  "version": "1.0.0",
+  "description": "node practice",
+  "main": "nodepr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AMAN GUPTA",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "nodemon": "^2.0.22",
+    "validator": "^13.7.0"
+  }
+}
